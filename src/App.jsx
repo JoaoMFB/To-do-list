@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Todo from '../components/todo.jsx'
+import Todo1 from '../components/Todo1.jsx'
 import TodoForm from '../components/TodoForm.jsx'
 
 function App() {
